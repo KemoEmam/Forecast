@@ -8,3 +8,14 @@ Forecast is a weather app that connects to a Weather API to provide real-time we
 - **Intuitive Search**: Quickly find weather data by typing the city's name.
 - **Dynamic Climate Change**: Experience an immersive interface that adapts to the current weather conditions.
 - **Thematic Interface**: Enjoy a visually appealing interface that changes based on the weather of the city you’re exploring.
+
+## Screenshots
+
+### Screenshot 1
+![Screenshot_1](https://github.com/KemoEmam/Forecast/assets/122459156/80161930-811c-4eca-a661-81616b3adf19)
+
+### Screenshot 2
+![Screenshot_2](https://github.com/KemoEmam/Forecast/assets/122459156/684590cf-b5a7-43a5-8820-91a802843c3e)
+
+### Screenshot 3
+![Screenshot_12](https://github.com/KemoEmam/Forecast/assets/122459156/d1ef75df-c16e-49e6-8990-400928b69357)
